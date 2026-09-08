@@ -18,3 +18,7 @@ Ein containisiertes Monitoring-System auf Basis von Prometheus, Grafana und Node
 
 **Projekt "Nginx-Ansible-Secure-Proxy🛡️"**
 Eine Infrastruktur-Lösung, die interne Webdienste über einen Nginx Reverse Proxy mit HTTPS-Verschlüsselung sowie Basic Auth absichert und das Deployment automatisiert über Ansible durchführt.
+
+---
+
+### Projekte Demos📺:
