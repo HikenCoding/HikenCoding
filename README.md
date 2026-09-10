@@ -1,5 +1,9 @@
 ## Willkommen auf meinem Github Profil 🐦‍🔥
 
+
+<img width="1600" height="640" alt="Github-Banner" src="https://github.com/user-attachments/assets/fbc21031-89d8-45af-9cc5-c7569e35dd11" />
+
+
 ## Über mich
 Ich bin ein ausgelernter Fachinformatiker für Anwendungsentwickler (FIAE) mit 4 Jahren Berufserfahrung. Beschäftige mich aktuell sehr mit Netzwerken, um meinen Horizont zu erweitern. Dazu habe ich auch ein paar Projekte hier auf meinen Github hinzugefügt und mein aktuell größtes Projekt ist "NovaMind 🧠"
 
