@@ -28,6 +28,8 @@ Eine Infrastruktur-Lösung, die interne Webdienste über einen Nginx Reverse Pro
 ### Projekte Demos📺:
 #### 🐳🖥️Docker-Health-Monitor:
 #### 🐧🖥️Linux-Montoring-Stack:
+#### 🔏Nginx-ansible-secure-proxy:
+#### 🧠NovaMind:
 
 
 
